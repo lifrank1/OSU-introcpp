@@ -1,1 +1,1 @@
-# covidData
+This code was written by me for the assignment "Putting It All Together" for Lab 14.28 on Zybooks (Homework 5) for my introduction to C++ class at the Ohio State University I took from January 2022 to May 2022 as a senior in high school. It is not intended to be used as a sample or answer and does not guarantee any points if copied for any assignment. 
